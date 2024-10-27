@@ -1,0 +1,13 @@
+name: dat301lab3
+title: dat301lab3
+username: alashaym
+account: alashaym
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13128251
+bundleId: 9266961
+url: https://alashaym.shinyapps.io/dat301lab3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|10.8-ioslides.html|10.8 ioslides.Rmd|8.27 lecture.R|9.19 lecture.R|Absenteeism_at_work.csv|animation class 10.24.R|cars.csv|chick.jfif|Embeddedshinyapps.Rmd|flower.csv|four-hists.png|gapmdr.gif|gw.1.R|GW.1R.R|gw1.R|gw2.R|gw3.R|GW4.pdf|GW4.Rmd|HW3.html|HW3.Rmd|importimage10.1.png|IntroReg.Rmd|iris.jfif|lab-2.html|lab-2.pdf|lab 2.Rmd|LAB1.pdf|LAB1.Rmd|lec 4.R|lecture 3.R|lecture.R|questions.pdf|rocdata.xlsx|Snowman.R|squid1-1.xlsx|squid1-2.txt|squid1dotplots.pdf|squid1hist.pdf|squid1histbrks.pdf|squid1transf_plot.jpeg|squid1transf_plot.png|whaledata.csv
